@@ -3,8 +3,6 @@
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDdvenJ4eWJvYjlwenk4dG9lbHlocjh3NDRscnhzN3VzamdocjNncyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oPNq5A3IZC6bugJXeS/giphy.webp">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kwekweeek&label=Profile%20views&color=0e75b6&style=flat" alt="kwekweeek" /> </p>
-
 - 🌱 I’m currently learning **C++ and Phyton**
 
 <h3 align="left">Connect with me:</h3>
